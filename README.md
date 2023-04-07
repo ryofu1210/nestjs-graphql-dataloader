@@ -15,7 +15,7 @@ authorが紐付いたpost一覧を取得.
 
 ```graphql
 query getPosts {
-	getPosts {
+  getPosts {
     id
     content
     authorId
